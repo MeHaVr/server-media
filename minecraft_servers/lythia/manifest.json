@@ -11,6 +11,7 @@
   "social": {
     "discord": "https://discord.gg/3R8vbCPQcd",
     "youtube": "https://www.youtube.com/channel/UCWTEMNNPnZeAWPemS89Nctw"
+    "instagram": "lythia.de"
   },
   "gamemodes": {
     "survival": {
@@ -39,5 +40,7 @@
       "country": "Schweiz",
       "country_code": "CH"
   },
+  },
+  "yt_trailer": "YDKuTO8WRug",
   "command_delay": 3000
 }
